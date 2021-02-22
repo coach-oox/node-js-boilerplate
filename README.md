@@ -12,4 +12,7 @@ Node.js (JavaScript) Boilerplate with Gulp and Babel.
     -   `gulp-sass`
     -   `gulp-csso`
     -   `gulp-bro`
+    -   `gulp-typescript`
     -   `babelify`
+    -   `gulp-webserver`
+    -   `gulp-gh-pages`
