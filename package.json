@@ -1,0 +1,32 @@
+{
+    "name": "node-js-boilerplate",
+    "author": "coach-oox",
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Node.js (JavaScript) Boilerplate with Gulp and Babel.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/coach-oox/node-js-boilerplate.git"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.12.17",
+        "@babel/preset-env": "^7.12.17",
+        "@babel/register": "^7.12.13",
+        "babelify": "^10.0.0",
+        "del": "^6.0.0",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^7.0.1",
+        "gulp-bro": "^2.0.0",
+        "gulp-csso": "^4.0.1",
+        "gulp-gh-pages": "^0.5.4",
+        "gulp-image": "^6.2.1",
+        "gulp-pug": "^4.0.1",
+        "gulp-sass": "^4.1.0",
+        "gulp-webserver": "^0.9.1",
+        "node-sass": "^5.0.0",
+        "uglifyify": "^5.0.2"
+    },
+    "browserslist": [
+        "last 2 versions"
+    ]
+}
